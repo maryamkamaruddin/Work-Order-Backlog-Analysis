@@ -31,12 +31,12 @@ Data Transformation
 
 No major transformation was required. The data export was already formatted to meet the project's needs. However, several calculated columns and measures were created within Power BI to enrich the analysis:
 
-- Calculated Columns :
+Calculated Columns :
  - IsInBacklog - Flags if a work order is overdue and incomplete
  - Day In Backlog - Days since the target finish date
  - Days In Backlog Grouping - Categorical bands (e.g., >100, 50–100, 11–49, 1–10, Not in backlog)
 
-- Measures:
+Measures:
  - Work Order Planned Hours
  - Backlog (count)
  - Backlog (hours)
