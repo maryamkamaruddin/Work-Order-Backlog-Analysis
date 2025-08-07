@@ -1,7 +1,4 @@
 # Work-Order-Backlog-Dashboard
-Refer here for my website view: https://mavenshowcase.com/project/29629  
-
-About this project
 
 Goal
 
@@ -47,6 +44,25 @@ No major transformation was required. The data export was already formatted to m
 Data Modeling
 
 A single-table model was sufficient for this analysis. Because the dataset is clean and compact, no relationships or complex modeling were necessary. All key analysis elements were built directly within this table, keeping the solution straightforward and maintainable.
+
+Data Visualization
+
+
+Page 1 - Insight into the overall status of the work order backlog
+Visuals for :
+- Work Orders by Criticality
+- Backlog Age Distribution
+- Work Orders by Department and Discipline
+- Includes a bookmark button to jump to the detailed view
+
+![Image Alt](https://github.com/maryamkamaruddin/Work-Order-Backlog-Dashboard/blob/f38e57d955d049e3293a970d3835777435cecb6b/Work%20Order%20Backlog-images-0.jpg)
+
+
+Page 2 - Tabular view of all work orders in backlog
+- Helps users track and manage backlog items individually
+
+![Image Alt](https://github.com/maryamkamaruddin/Work-Order-Backlog-Dashboard/blob/f38e57d955d049e3293a970d3835777435cecb6b/Work%20Order%20Backlog-images-1.jpg)
+
 
 Conclusion
 
