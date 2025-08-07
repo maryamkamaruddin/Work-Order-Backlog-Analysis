@@ -1,6 +1,7 @@
 # Work-Order-Backlog-Dashboard
 
-About this project : Guided Project
+- About this project : Guided Project
+- Tools : Excel, Power BI
 
 Goal
 
