@@ -49,7 +49,6 @@ Data Visualization
 
 
 Page 1 - Insight into the overall status of the work order backlog
-Visuals for :
 - Work Orders by Criticality
 - Backlog Age Distribution
 - Work Orders by Department and Discipline
